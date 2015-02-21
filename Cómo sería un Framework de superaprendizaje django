@@ -1,0 +1,28 @@
+
+
+                          Framework de superaprendizaje y/o Capacidad Incrementante de Respuesta (CIR) django
+
+
+0.El organizar este framework es por un lado todo un aprendizaje general, por otro construir capacidad incrementante de respuesta
+
+1. carpeta para fundamentos: pdfs o partes de codigo muy bien organizadas
+
+2. carpeta para ejemplos generales:blogs,wikis,superlists, con categorias como subcarpetas como : vistas, urls, modelos, con variaciones para comparar
+ 
+3. carpeta para ejemplos-segmentados aparte vistas, urls, modelos,forms un tanto diferentes
+
+4. carpeta con fundamentos y ejemplos de tests standares y de selenium etc (0 bien sus referencias links precisas)
+
+5. carpeta de posibles proyectos y proyectos pasados(con git)
+
+6. carpeta para documentacion principal y secundaria (o links-favoritos)
+
+7. proyecto(s) en curso con git como completamente obligatorio y comentarios concernientes a lo que se aprende 
+
+8. de las preguntas: las que fallaron, guardar registro, como se pudo haber evitado "la frontera final", la pregunta sin respuesta.
+
+9. volver a 0 y seguir recargando todo 0-9
+
+
+
+
