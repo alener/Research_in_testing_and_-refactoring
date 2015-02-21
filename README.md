@@ -15,3 +15,5 @@ Sin embargo, este proyecto, tengo la esperanza, se convertirá tarde o temprano 
  Comienza escrito en castellano, pero tendrá también su traducción al Inglés.
 
  A aquellos que me seguirán, les deseo un feliz viaje a lo desconocido.
+
+Para una mejor lectura se puede ir a la wiki en español de este proyecto: https://github.com/alener/Research_in_testing_and_-refactoring/wiki
