@@ -1,0 +1,19 @@
+
+                     Refactoring I
+
+Es mejor escribir codigo más básico, entenderlo y hacerlo funcionar, que código copiado de alto nivel bagamente entendido
+
+
+Es decir: Escribir primero un código suceptible a ser refactorizado por uno mismo, que otro ya refactorizado por terceros
+
+
+Por un lado, se entiende más el problema, por otro: se conoce más el framework y se practica refactoring
+
+
+Al lograr que funcione el codigo se tiene un punto de referencia desde donde pivotar refactorizando y no se traba el proyecto y ademas sirve para aprender la naturaleza
+
+ del problema en questión
+
+
+
+                    Refactoring II: Cuales son los minimos pivoteables para un refactoring
