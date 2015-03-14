@@ -14,13 +14,11 @@ Pensando esto desde la dualidad **pregunta-respuesta**, hay una respuesta que te
 
 
 Los test con TDD justamente apuntan en parte a empezar a chequear-preguntar cuales de estos supuestos son los críticos al respecto para luego poder cambiar el código y
-
- hacer que este funcione ,al menos en esa parte.
+hacer que este funcione ,al menos en esa parte.
 
 
 Sin embargo el chequear nuestros supuestos no es algo que se pueda hacer solamente con test, hay otras formas de preguntarle al programa sobre nuestros supuestos que
-
- pueden cumplir al menos esto.
+pueden cumplir al menos esto.
 
 
 Este será entonces el objetivo de esta investigación: *enmarcar TDD y BDD en un contexto más amplio*, pues a pesar de toda la teoría escrita, hay muchos problemas
