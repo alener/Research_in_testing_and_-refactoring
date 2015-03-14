@@ -1,6 +1,6 @@
 
-
-                                                # La importancia de detectar supuestos mentales en TDD o BDD
+ 
+#  La importancia de detectar supuestos mentales en TDD o BDD
 
 
  
