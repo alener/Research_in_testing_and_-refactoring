@@ -17,3 +17,5 @@ Sin embargo, este proyecto, tengo la esperanza, se convertirá tarde o temprano 
  A aquellos que me seguirán, les deseo un feliz viaje a lo desconocido.
 
 Para una mejor lectura se puede ir a la wiki en español de este proyecto: https://github.com/alener/Research_in_testing_and_-refactoring/wiki
+
+Para los quieran ver la notebook "preguntas en python. parte 1" ir a: http://nbviewer.ipython.org/github/alener/Research_in_testing_and_-refactoring/blob/master/Preguntas%20en%20python.%20Parte%201.ipynb
